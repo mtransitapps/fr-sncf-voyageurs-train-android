@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/next_bus_values.xml -->
+    <string name="next_bus_agency_tag">INSERT_AGENCY_TAG</string>
+</resources>

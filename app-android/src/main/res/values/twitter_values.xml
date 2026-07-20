@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
+    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/twitter_values.xml -->
+    <string-array name="twitter_screen_names">
+        <item>INSERT_USERNAME_OR_REMOVE</item>
+    </string-array>
+    <!-- (optional) Visits: https://x.com/INSERT_USERNAME_OR_REMOVE, Right click on header image > copy image address, it's the 1st number in the URL path -->
+    <string-array name="twitter_screen_names_id">
+        <item>INSERT_TWITTER_ID_OR_REMOVE</item>
+    </string-array>
+    <!-- temporary: should override noteworthy because default is news_provider_noteworthy_warning (short term)
+    https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/news_provider_constants.xml
+    <string-array name="twitter_screen_names_noteworthy">
+        <item>@string/news_provider_noteworthy_info</item>
+    </string-array>
+    -->
+</resources>

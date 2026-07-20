@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/youtube_values.xml -->
+    <string-array name="youtube_channels_author_url">
+        <item>INSERT_URL_W_USERNAME_OR_CHANNEL_OR_CUSTOM_OR_REMOVE</item>
+    </string-array>
+</resources>

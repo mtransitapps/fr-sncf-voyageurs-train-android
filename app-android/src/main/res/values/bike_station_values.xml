@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
+    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/bike_station_values.xml -->
+    <integer name="bike_station_agency_type">100</integer>
+    <string name="bike_station_data_url">INSERT_GBFS_URL_OR_REMOVE_FILE</string>
+    <string name="bike_station_area_min_lat">INSERT_MIN_LAT</string>
+    <string name="bike_station_area_max_lat">INSERT_MAX_LAT</string>
+    <string name="bike_station_area_min_lng">INSERT_MIN_LNG</string>
+    <string name="bike_station_area_max_lng">INSERT_MAX_LNG</string>
+    <string name="bike_station_color">6699FF</string> <!-- BLUE -->
+    <color name="bike_station_value1_color">#6699FF</color> <!-- BLUE -->
+    <color name="bike_station_value1_color_bg">#6699FF</color> <!-- BLUE -->
+    <color name="bike_station_value1_sub_value1_color">#32CD32</color> <!-- GREEN -->
+    <color name="bike_station_value1_sub_value1_color_bg">#32CD32</color> <!-- GREEN -->
+    <color name="bike_station_value2_color">#FFFFFF</color> <!-- WHITE -->
+    <color name="bike_station_value2_color_bg">#000000</color> <!-- BLACK -->
+    <string name="bike_station_contact_us">INSERT_DEFAULT_URL</string>
+    <string name="bike_station_contact_us_fr">INSERT_FR_URL_OR_REMOVE</string>
+    <string name="bike_station_fares">INSERT_DEFAULT_URL</string>
+    <string name="bike_station_fares_fr">INSERT_FR_URL_OR_REMOVE</string>
+
+</resources>

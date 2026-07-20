@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/gtfs_rts_values.xml -->
+    <!-- gtfs_rts_db_version is generated automatically -->
+    <integer name="gtfs_rts_db_version">20100602</integer>
+    <string name="gtfs_rts_contact_us">INSERT_DEFAULT_URL</string>
+    <string name="gtfs_rts_contact_us_fr">INSERT_FR_URL_OR_REMOVE</string>
+    <string name="gtfs_rts_fares">INSERT_DEFAULT_URL</string>
+    <string name="gtfs_rts_fares_fr">INSERT_FR_URL_OR_REMOVE</string>
+</resources>
