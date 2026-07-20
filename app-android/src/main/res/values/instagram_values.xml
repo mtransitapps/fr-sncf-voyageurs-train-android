@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays">
-    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/instagram_values.xml -->
     <string-array name="instagram_user_names">
-        <item>INSERT_USERNAME_OR_REMOVE</item>
+        <item>sncfvoyageurs</item>
     </string-array>
 </resources>
 

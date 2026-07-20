@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
-    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/gtfs_real_time_values.xml -->
-    <string name="gtfs_real_time_agency_service_alerts_url">INSERT_URL_OR_REMOVE</string>
-    <string name="gtfs_real_time_agency_vehicle_positions_url">INSERT_URL_OR_REMOVE</string>
-    <string name="gtfs_real_time_agency_trip_updates_url">INSERT_URL_OR_REMOVE</string>
+    <string name="gtfs_real_time_agency_service_alerts_url">https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-service-alerts</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-trip-updates</string>
 </resources>
