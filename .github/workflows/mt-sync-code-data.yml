@@ -41,8 +41,6 @@ on:
         type: boolean
         default: false
         required: false
-  schedule:
-    - cron: '0 12 * * 2' # Tuesdays @ 12pm UTC # WEEKLY https://crontab.guru/#0_12_*_*_2
 # gh workflow run mt-sync-code-data.yml --ref $(git rev-parse --abbrev-ref HEAD)
 # gh workflow run mt-sync-code-data.yml -f skip-download-data=true -f skip-app-release=true
 # gh workflow run mt-sync-code-data.yml -f reset-current-schedule=true
