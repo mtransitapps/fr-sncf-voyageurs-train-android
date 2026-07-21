@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
-    <!-- More settings available: https://github.com/mtransitapps/commons-android/blob/master/src/main/res/values/rss_values.xml -->
+    <!-- 2026-07020: DISABLED for now, need testing... -->
     <string-array name="rss_feeds">
-        <item>INSERT_URL_OR_REMOVE</item>
+        <item>https://www.sncf-voyageurs.com/fr/presse/feed/</item>
     </string-array>
     <string-array name="rss_feeds_author_icon">
-        <item>INSERT_URL_OR_REMOVE</item>
+        <item>https://www.sncf-voyageurs.com/favicon.ico</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
-        <item>INSERT_URL_OR_REMOVE</item>
+        <item>https://www.sncf-voyageurs.com/fr/presse/</item>
     </string-array>
     <string-array name="rss_feeds_label">
-        <item>INSERT_LABEL_OR_REMOVE</item>
+        <item>sncf-voyageurs.com</item>
     </string-array>
 </resources>
 
